@@ -25,6 +25,10 @@ I like working with
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
 
+### Databases & Visualization
+![InfluxDB Badge](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff&style=flat)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
+
 ### 2D/3D Design
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=flat)
 ![Autodesk Revit Badge](https://img.shields.io/badge/Autodesk%20Revit-186BFF?logo=autodeskrevit&logoColor=fff&style=flat)
