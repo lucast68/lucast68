@@ -2,7 +2,7 @@
 
 I like working with
 
-### Coding, Programming, ML & Data Analysis
+### Coding, Programming, Data Analysis & ML
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
