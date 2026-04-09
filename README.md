@@ -35,6 +35,9 @@ I like working with ...
 ![Autodesk Revit Badge](https://img.shields.io/badge/Autodesk%20Revit-186BFF?logo=autodeskrevit&logoColor=fff&style=flat)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 
+## Networks & security
+![Wireshark Badge](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat-square)
+
 ### Operating Systems, Kernels & Distrobutions
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
