@@ -25,8 +25,9 @@ I like working with ...
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
 
-### Databases & Visualization
+### Databases, Servers & Visualization
 ![InfluxDB Badge](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff&style=flat)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
 
 ### 2D/3D Design
