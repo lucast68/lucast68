@@ -25,7 +25,7 @@ I like working with
 ![Autodesk Revit Badge](https://img.shields.io/badge/Autodesk%20Revit-186BFF?logo=autodeskrevit&logoColor=fff&style=flat)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 
-### Operating Systems, Kernels & Distros
+### Operating Systems, Kernels & Distrobutions
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
