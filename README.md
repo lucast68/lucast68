@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like working with
+I like working with ...
 
 ### Coding & Programming
 
@@ -41,7 +41,7 @@ I like working with
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat)
 ![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat)
 
-I'm learning
+I'm currently learning ...
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
