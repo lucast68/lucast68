@@ -25,6 +25,7 @@ I like working with ...
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+![YOLO Badge](https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff&style=flat)
 
 ### Databases, Servers & Visualization
 ![InfluxDB Badge](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff&style=flat)
