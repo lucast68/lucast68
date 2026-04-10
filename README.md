@@ -34,6 +34,7 @@ I like working with ...
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=flat)
 ![Autodesk Revit Badge](https://img.shields.io/badge/Autodesk%20Revit-186BFF?logo=autodeskrevit&logoColor=fff&style=flat)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
+![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
 ### Operating Systems, Kernels & Distrobutions
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
@@ -53,7 +54,6 @@ I'm currently learning ...
 ![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
 <!--
 **lucast68/lucast68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
