@@ -38,6 +38,9 @@ I like working with ...
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 ![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
+## Audio
+![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
+
 ### Operating Systems, Kernels & Distrobutions
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
